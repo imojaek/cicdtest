@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.CodeSquad.IssueTracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class IssueTrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(IssueTrackerApplication.class, args);
 	}
 
 }
